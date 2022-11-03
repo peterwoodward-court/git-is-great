@@ -8,6 +8,6 @@ Another line to check the diff.
 
 Yet another line.
 
-Linegit 1.
+Line 1.
 Line 2.
 Line 3.
